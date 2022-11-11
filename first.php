@@ -21,7 +21,7 @@ $conn = mysqli_connect('localhost','root','','library') or die('connection faile
 ?>   
 <?php include 'header.php'; ?>
 <?php
-$limit = 9;  
+$limit = 6;  
 $select_products = mysqli_query($conn, "SELECT * FROM `books`") or die('query failed');
 $total_rows = mysqli_num_rows($select_products);   
 $total_pages = ceil ($total_rows / $limit);  
