@@ -13,7 +13,8 @@
 <div class="container">
       <div class="glow">Library Management System</div>
     </div>
-    <button class="button-85" role="button">Click To See Our Collection</button>
+    <a href="first.php">
+    <button class="button-85" role="button" href="first.php">Click To See Our Collection</button>
     <footer class="glow1">This is a Demo Project Made By Pranshu Verma</footer>
  
 </body>
