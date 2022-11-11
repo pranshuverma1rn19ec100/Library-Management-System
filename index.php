@@ -11,7 +11,7 @@
 </style>
 <body>
 <div class="container">
-      <div class="glow">Lbrary Management System</div>
+      <div class="glow">Library Management System</div>
     </div>
     <button class="button-85" role="button">Click To See Our Collection</button>
     <footer class="glow1">This is a Demo Project Made By Pranshu Verma</footer>
