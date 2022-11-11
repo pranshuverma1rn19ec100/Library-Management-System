@@ -5,7 +5,7 @@ Tools Used - HTML,CSS,JAVASCRIPT,PHP
 
 Database Used - MySql
 
-This Page Contains the record of Data in database and with the help of php we run query to fetch the details of the book, we have to Two Function In this page 
+This Page Contains the record of Books in database and with the help of php we run query to fetch the details of the book, we have to Two Function In this page 
 1. We can Add Book Details Which Contain 4 Attributes (BOOK TITLE,AUTHOR NAME,SUBJECT,PUBLISH DATE AND IMAGE OF BOOK)
 2. We Can Fetch All the Details of Books in different pages(Limit per page is 6 Book)
 
